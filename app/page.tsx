@@ -5,7 +5,7 @@ export default function Home() {
     <div className=" main_container grid h-screen w-full place-items-center">
       <div className=" space-y-7">
         <h2 className=" text-3xl font-semibold text-slate-200 md:text-5xl">
-          {">> Next Template"}
+          {">> Next TS Template"}
         </h2>
         <Link
           href={"https://github.com/MgHtetMyatAung/next-template"}
