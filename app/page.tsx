@@ -9,7 +9,7 @@ export default function Home() {
         </h2>
         <Link
           href={"https://github.com/MgHtetMyatAung/next-template"}
-          className=" block text-center text-slate-100 underline"
+          className=" mx-auto block w-fit border border-cyan-400 px-10 py-3 text-center text-slate-100 underline"
           target="_blank"
         >
           Get Github Repo
