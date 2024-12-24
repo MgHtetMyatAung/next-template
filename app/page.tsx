@@ -12,7 +12,7 @@ export default function Home() {
           className=" block text-center text-slate-100 underline"
           target="_blank"
         >
-          Get Repo
+          Get Github Repo
         </Link>
       </div>
     </div>
